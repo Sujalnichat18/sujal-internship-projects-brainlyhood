@@ -1,0 +1,67 @@
+*{
+    font-family: "Poppins", serif;
+    
+}
+
+.navbar-brand{
+    color:#FD8B51;
+    font-weight: 700;
+    font-size: 25px;
+
+}
+.container-fluid{
+    background-color: #FFECC8;
+}
+
+.heading-1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #0B192C;
+
+}
+.info{
+    font-size: 15px;
+    text-align: justify;
+
+}
+button{
+    background-color: coral;
+    border-radius: 10px;
+    color: white;
+    border-color:coral;
+}
+.image111{
+    width: 100vb;
+    height: 60vh;
+}
+.starimg{
+    width: 150px;
+}
+.imagegroup{
+    width: 90px;
+    height: 70px;
+}
+.imgirl{
+    width: 450px;
+}
+
+.titleline{
+justify-content: space-between;
+}
+
+.container111{
+    background-color: #FFECC8;
+}
+
+.formclass{
+justify-content: space-around !important;
+}
+
+.contcolor{
+    background-color: #0B192C;
+    color: white;
+}
+
+.license{
+    justify-content: space-between;
+}
