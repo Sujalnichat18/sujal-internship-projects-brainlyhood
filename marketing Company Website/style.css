@@ -1,0 +1,122 @@
+.navcentre{
+margin-left: 100px;
+}
+.nav-item{
+    margin-left: 35px;
+}
+.heroimg{
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("./images/hero-img.jpg");
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+.hero-text{
+padding-left: 100px;
+padding-top: 170px;
+}
+h1{
+    font-weight: 700;
+    font-size: 50px;
+    color: #FF5580;
+    text-shadow: 1px 1px 3px #4f4e4e;
+}
+button{
+    background-color: #FF5580;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+.button-area{
+    padding-top: 20px;
+    gap: 50PX;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+video{
+    padding-top: 30px;
+}
+.cardimg{
+    background-image: linear-gradient(rgba(91, 149, 243, 0.495), rgba(0,0,0,0.3)), url("./images/card-section-img.jpg");
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cardhead{
+    padding-top: 40PX;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: underline #FF5580;
+}
+.cardsss{
+    padding-top: 20px;
+    display: flex;
+    justify-content:center;
+}
+.card{
+    border-radius: 0% !important;
+    height: 220px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+i{
+    font-size: 40px;
+    color: #FF5580;
+}
+.cardww{
+    background-color: rgb(17, 3, 110);
+    color: white;
+}
+.client{
+    padding-top: 40px;
+    text-align: center;
+
+}
+.testimonial-section{
+    text-align: center;
+}
+.priceimg{
+    background-image: linear-gradient(rgba(91, 149, 243, 0.495), rgba(0,0,0,0.3)), url("./images/pricing-img.jpg");
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;   
+}
+.pricecard{
+    line-height: 40px;
+    justify-content: space-around;
+}
+
+.row111{
+    align-items: center;
+    justify-content: space-around;
+}
+.footer{
+    background-color: #040a41;
+    color: white;
+    padding-top: 40px;
+}
+.logodiv{
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+.isting{
+    margin-right: 40px;
+}
+ul{
+    line-height: 47px;
+    padding-right: 40px;
+}
+.sbtbtn{
+    width: 15rem;
+}
